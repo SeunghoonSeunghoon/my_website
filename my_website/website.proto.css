@@ -1,0 +1,108 @@
+div{
+    background-image: "./배경.jpg";
+    
+}
+body{
+    background:green url("배경.jpg")no-repeat fixed 50% 50%/100% 100%;
+}
+a{
+    text-decoration:none;
+    color:rgba(192, 49, 239, 0.63);
+}
+.photo-margin{
+    margin-right: 0;
+    width:300px;
+    height: 250px;
+}
+.introduce{
+    margin-left:200px;
+    margin-top: 0px;
+    
+    width:400px;
+    height:30px;
+}
+
+.ground{
+    margin-top:-20px;
+    margin-left: -40px;
+    
+    width:640px;
+    height:150px;
+    background-color: rgb(255, 226, 255);
+    border-radius: 10px;
+}
+.nav{
+    height: 50px;
+    border-bottom:1px solid black;
+    display:flex;
+    align-items: center;
+    background-color: aquamarine;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .html{
+    width:100px;
+    height:100px;
+    margin-left: 270px;
+    margin-top: -400px;
+    background-color: white;
+    border-radius: 10px;
+    
+  }
+  .python{
+    width:100px;
+    height:100px;
+    margin-left:380px;
+    margin-top:-100px;
+    background-color: aliceblue;
+    border-radius: 10px;
+  }
+  .linux{
+    width:100px;
+    height:100px;
+    margin-left:270px;
+    margin-top:20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+  }
+  .nav-items{
+    display:flex;
+    margin-left:auto;
+    margin-right: 10px;
+    ;
+  }
+  .bg {
+    background-color: cyan;
+    width:640px;
+    height: 403.2px;
+    position: relative;
+    border-radius: 10px;
+  }
+  img{
+    size:250px;
+  }
+  li{
+    background-color: aliceblue;
+    border-radius: 10px;
+  }
+  .nav-item{
+    margin-left: 10px;
+  }
+  .board{
+    width:700px;
+    height:400px;
+    margin-left:645px;
+    margin-top: -400px;
+    
+    background-color: aliceblue;
+  }
+  .title{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .subtitle{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+  }
